@@ -34,7 +34,7 @@ sudo apt install postgresql-15
 # dpkg -i zabbix-release_6.0-4+ubuntu20.04_all.deb
 # apt update
 # apt install zabbix-agent
-# sed -i 's/# Server=/Server=192.168.3.100/g' /etc/zabbix/zabbix_agentd.conf
+# sed -i 's/Server=127.0.0.1/Server=192.168.3.100/g' /etc/zabbix/zabbix_agentd.conf
 # systemctl restart zabbix-agent
 # systemctl enable zabbix-agent
 ```
