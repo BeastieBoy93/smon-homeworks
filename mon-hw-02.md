@@ -24,7 +24,7 @@ sudo apt install postgresql-15
 # systemctl enable zabbix-server zabbix-agent apache2 
 ```
 3. Авторизовался в админке:
-! [Zabbix](https://github.com/BeastieBoy93/smon-homeworks/blob/main/photo_2024-01-09_23-59-56.jpg)
+![Zabbix](https://github.com/BeastieBoy93/smon-homeworks/blob/main/photo_2024-01-09_23-59-56.jpg)
 ---
 
 ### Задание 2
